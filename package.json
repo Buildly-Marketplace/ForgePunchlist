@@ -1,0 +1,20 @@
+{
+  "name": "@buildly/forge-punchlist",
+  "version": "0.1.0",
+  "description": "Standalone vanilla JS punchlist widget for Buildly Labs",
+  "main": "forge-punchlist.js",
+  "types": "forge-punchlist.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Buildly-Marketplace/ForgePunchlist.git"
+  },
+  "keywords": [
+    "buildly",
+    "punchlist",
+    "feedback",
+    "bug-report",
+    "widget",
+    "vanilla-js"
+  ]
+}
